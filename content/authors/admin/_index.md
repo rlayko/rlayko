@@ -40,9 +40,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rachel-layko/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=BmtzgDwAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -52,21 +52,21 @@ interests:
   - GIS
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master's Degree
+    institution: Arizona State University
+    date_start: 2021-08-15
+    date_end: 2023-5-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Created species distribution models
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelors of Science
+    institution: William & Mary
+    date_start: 2015-08-15
+    date_end: 2019-05-15
     summary: |
-      GPA: 3.8/4.0
+      #GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -141,13 +141,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+#languages:
+ # - name: English
+  #  percent: 100
+ # - name: Chinese
+  # percent: 75
+ # - name: Portuguese
+ # percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
