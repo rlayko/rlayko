@@ -25,7 +25,7 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: North Carolina State University Center for Geospatial Analytics
-    url: https://cnr.ncsu.edu/geospatial/our-people/graduate-students
+    url: https://cnr.ncsu.edu/geospatial/our-people/graduate-students/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
