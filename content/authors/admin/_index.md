@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rachel Layko is a doctoral student at North Carolina State University interested in the relationships between people and public lands, particularly how changing climate and urbanization patterns can alter these relationships in space and time. 
