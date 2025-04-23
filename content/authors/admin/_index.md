@@ -25,7 +25,7 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: North Carolina State University Center for Geospatial Analytics
-    url: https://openai.com/](https://cnr.ncsu.edu/geospatial/our-people/graduate-students/
+    url: https://cnr.ncsu.edu/geospatial/our-people/graduate-students
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -60,22 +60,22 @@ education:
       Created species distribution models
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.int-res.com/articles/meps_oa/m740p161.pdf'
   - area: Bachelors of Science
     institution: William & Mary
     date_start: 2015-08-15
     date_end: 2019-05-15
     summary: |
-      #GPA: 3.8/4.0
+    GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - #area: BSc Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #date_start: 2016-01-01
-    # date_end: 2020-12-31
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     #summary: |
      # GPA: 3.4/4.0
       
