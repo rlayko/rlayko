@@ -55,7 +55,7 @@ education:
   - area: Master's Degree
     institution: Arizona State University
     date_start: 2021-08-15
-    date_end: 2023-5-15
+    date_end: 2023-05-15
     summary: |
       Created species distribution models
     button:
