@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3354/meps14643"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Despite the ecological and social importance of reef fishes, data on their populations, habitat use, and other drivers are often scarce, which creates challenges for effective management. These challenges are particularly acute for rare or at-risk species such as Acanthurus achilles, a reef fish with a documented population decline in recent years in Hawai‘i, USA. We used a data set of in situ fish surveys from across the main Hawaiian Islands combined from multiple survey programs to quantify A. achilles presence and absence and applied generalized linear mixed-effects models to examine the relationships between presence of (1) all individuals, (2) juveniles, and (3) adults with 27 spatially continuous environmental and anthropogenic drivers to understand the main drivers of presence. Using the modeled relationships between presence and all drivers, we predicted the probability of A. achilles presence at a 100 m scale within the 30 m depth contour of the main Hawaiian Islands. Environmental drivers, especially habitat drivers such as depth and rugosity, emerged as significant drivers of A. achilles presence, while anthropogenic drivers like landbased pollution and fishing had fewer significant relationships with A. achilles presence. The predicted probability of presence varied both between islands as well as within islands, with the highest probability of presence around Kaho‘olawe and Hawai‘i and the lowest around O‘ahu. Our modeling approach and high-resolution spatial predictions provide empirical evidence of the importance of environmental drivers in explaining A. achilles presence and identify preferred habitat at relevant scales for fisheries management.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
