@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Anthropogenic and environmental drivers of Acanthurus achilles presence in Hawai‘i"
 authors:
-- admin
-- Robert Ford
+- Rachel B Layko
+- Mary K Donovan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.int-res.com/articles/meps_oa/m740p161.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -44,8 +44,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+image: 'featured.png'
+  caption: 'Coefficient plot showcasing drivers of species distribution'
   focal_point: ""
   preview_only: false
 

@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Geovisualization Projects
+      text: Here are a selection of maps I made over the course of a geovisualization course.
       filters:
         folders:
           - project
