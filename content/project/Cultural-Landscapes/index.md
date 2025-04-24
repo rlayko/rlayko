@@ -1,6 +1,6 @@
 ---
 title: Cultural Landscapes
-date: 2025-4-26
+date: 2025-04-26
 external_link: 
 tags:
   - Hugo
