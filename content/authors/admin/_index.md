@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #  url: https://www.instagram.com/
   - icon: brands/github
@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/rachel-layko/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=BmtzgDwAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  #- icon: academicons/orcid
+    #url: https://orcid.org/
 
 interests:
   - Landscape ecology
@@ -52,32 +52,32 @@ interests:
   - GIS
 
 education:
-  - area: Master's Degree
-    institution: Arizona State University
-    date_start: 2021-08-15
-    date_end: 2023-05-15
+  - area: PhD in Geospatial Analytics
+    institution: North Carolina State University
+    date_start: 2024-08-15
+    # date_end: 2023-05-15
     summary: |
       Created species distribution models
     button:
-      text: 'Read Thesis'
+      text: 'Read Masters Manuscript'
       url: 'https://www.int-res.com/articles/meps_oa/m740p161.pdf'
-  - area: Bachelors of Science
-    institution: William & Mary
-    date_start: 2015-08-15
-    date_end: 2019-05-15
+  - area: Master's in Geography
+    institution: Arizona State University
+    date_start: 2021-08-15
+    date_end: 2024-05-15
     summary: |
-      GPA: 3.8/4.0
+      #GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: BS Biology, Minor in Marine Science
+    institution: William & Mary
+    date_start: 2015-08-15
+    date_end: 2019-05-15
+    summary: | Concentration in Geospatial Analytics
+      #GPA: 3.4/4.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
