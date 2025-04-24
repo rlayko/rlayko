@@ -76,7 +76,8 @@ education:
     institution: William & Mary
     date_start: 2015-08-15
     date_end: 2019-05-15
-    summary: | Concentration in Geospatial Analytics
+    summary: | 
+      Concentration in Geospatial Analytics
       #GPA: 3.4/4.0
 work:
   - position: Director of Cloud Infrastructure
