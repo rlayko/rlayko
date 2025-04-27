@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: emerald
-  background_image:"/assets/GC.jpg"
+  background_image: "/assets/GC.jpg"
 
 # SEO
 marketing:
