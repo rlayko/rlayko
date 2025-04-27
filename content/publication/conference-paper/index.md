@@ -1,19 +1,25 @@
 ---
-title: 'An example conference paper'
+title: 'Collaborative climate adaptation planning at NPS mid-Atlantic battlefield parks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Jelena Vukomanovic
+  -  Kate Jones
+  -  Kate Dean-McKinney
+  - Kofi Boone
+  -  John Millhauser 
+  - Erin Seekamp
+  -  Garrett Silliman 
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+ # - 'Equal contribution'
+  #- 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-04-016T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +34,14 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Climate adaptation planning spanning different geographies requires new tools and frameworks for understanding vulnerabilities and identifying paths for implementation across landscapes. Science partnerships are central to this work of developing informed, actionable, and transferable frameworks for identifying and responding to climate change.To date, most of the research and documentation of climate stressors and vulnerability at cultural resource and heritage sites managed by the National Park Service (NPS) has focused on coastal landscapes leaving other types of landscapes, including inland and river battlefields, understudied. Battlefields differ from other types of protected areas as they are often small in spatial extent and embedded in highly developed landscape matrices. These battlefields face climate change impacts like increased runoff and flooding, more frequent and intense storms, and changing vegetation and fire regimes that can threaten the condition of significant cultural resources. Our project considers the natural and cultural resources embedded within these inland battlefield landscapes in the mid-Atlantic region as integrated resources. We are developing methods for cultural landscape climate change vulnerability assessments (CCVA) collaboratively with a team composed of NPS Climate Response Program staff, resource managers from NPS park units, the Olmstead Center for Landscape Preservation, and a multidisciplinary team from North Carolina State University. Together we are 1) iteratively building capacity by creating comprehensive geospatial databases that address data gaps and inform site condition assessments, 2) applying geospatial tools developed alongside the CCVAs under multiple climate change scenarios to plan targeted adaptation strategies, and 3) coordinating with the ongoing Grasslands Initiative to implement and monitor climate-adaptive solutions used to promote native vegetation. The geospatial tools created will inform adaptation planning and implementation processes, with the CCVAs designed to be scalable to parks across the region.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Landscape ecology, resource management
 
 # Display this page in the Featured widget?
 featured: true
