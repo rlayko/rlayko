@@ -51,7 +51,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0231866&type=printable'
+url_pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0231866&type=printable'
 #url_code: ''
 url_dataset: http://www.geoboundaries.org
 #url_poster: ''
@@ -64,7 +64,7 @@ url_dataset: http://www.geoboundaries.org
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image: 
   path: 'featured.png'
-  caption: 'Coefficient plot showcasing drivers of species distribution'
+  caption: 'Map of administrative boundaries'
   focal_point: ""
   preview_only: false
 
