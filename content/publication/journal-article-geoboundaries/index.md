@@ -21,7 +21,7 @@ authors:
 - Rebecca Youngerman
 - Lauren Hobbs
 
-#author_notes:
+author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2020-04-24T00:00:00Z"
