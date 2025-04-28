@@ -2,11 +2,11 @@
 title: "Anthropogenic and environmental drivers of Acanthurus achilles presence in Hawai‘i"
 authors:
 - Rachel B Layko
-- Mary K Donovan
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-07-25T00:00:00Z"
 doi: "https://doi.org/10.3354/meps14643"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ abstract: Despite the ecological and social importance of reef fishes, data on t
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Species distribution models
 featured: true
 
 # links:
@@ -65,12 +65,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
