@@ -32,12 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ' My Research'
+      title: ' Research Interests'
       subtitle: ''
       text: |-
-        I'm a landscape ecologist interested in relationships between communities and public lands. 
-        
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy. 
+        I'm a landscape ecologist interested in relationships between communities and public lands. My research interests bring together my background in biology, marine science, and geospatial analysis to examine questions of managing natural resources for people and the communities who rely upon them. I've previously  worked with The Nature Conservancy, the National Park Service, and as a Dangermond Fellow with the National Audubon Society.
     design:
       columns: '1'
   - block: collection
