@@ -38,10 +38,11 @@ abstract: Climate adaptation planning spanning different geographies requires ne
 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Landscape ecology, resource management
+  - Landscape ecology
+  - Resource management
 
 # Display this page in the Featured widget?
 featured: true
