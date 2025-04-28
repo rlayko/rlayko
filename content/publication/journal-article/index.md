@@ -1,7 +1,8 @@
 ---
 title: "Anthropogenic and environmental drivers of Acanthurus achilles presence in Hawai‘i"
 authors:
-- Rachel B Layko
+- admin
+- Mary K Donovan
 
 author_notes:
 - "Equal contribution"
