@@ -22,8 +22,8 @@ authors:
 - Lauren Hobbs
 
 author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2020-04-24T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0231866"
 
@@ -36,10 +36,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PLOS One*(1)"
+publication: "\*PLOS One*\"
 publication_short: ""
 
-abstract: We present the geoBoundaries Global Administrative Database (geoBoundaries): an online, open license resource of the geographic boundaries of political administrative divisions (i.e., state, county). Contrasted to other resources geoBoundaries (1) provides detailed information on the legal open license for every boundary in the repository, and (2) focuses on provisioning highly precise boundary data to support accurate, replicable scientific inquiry. Further, all data is released in a structured form, allowing for the integration of geoBoundaries with large-scale computational workflows. Our database has records for every country around the world, with up to 5 levels of administrative hierarchy. The database is accessible at http://www.geoboundaries.org, and a static version is archived on the Harvard Dataverse.
+abstract: 'We present the geoBoundaries Global Administrative Database (geoBoundaries): an online, open license resource of the geographic boundaries of political administrative divisions (i.e., state, county). Contrasted to other resources geoBoundaries (1) provides detailed information on the legal open license for every boundary in the repository, and (2) focuses on provisioning highly precise boundary data to support accurate, replicable scientific inquiry. Further, all data is released in a structured form, allowing for the integration of geoBoundaries with large-scale computational workflows. Our database has records for every country around the world, with up to 5 levels of administrative hierarchy. The database is accessible at http://www.geoboundaries.org, and a static version is archived on the Harvard Dataverse.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
